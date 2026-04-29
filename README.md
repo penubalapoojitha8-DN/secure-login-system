@@ -1,2 +1,6 @@
-# secure-login-system
-A secure login system with password hashing
+Secure Login System
+
+Features:
+- User Registration
+- Login Authentication
+- Password Hashing using bcrypt
